@@ -1,0 +1,1 @@
+{ "name": "orders-api", "version": "0.3.0", "type": "module", "scripts": { "dev": "tsx src/server.ts" }, "dependencies": { "pg": "^8.11.0" } }

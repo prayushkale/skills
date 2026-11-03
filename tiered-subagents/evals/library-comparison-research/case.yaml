@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: library-comparison-research
+expected_outcome: |
+  A sourced comparison of zod, valibot and arktype with a clear recommendation; web lookups delegated to cheap subagents run in parallel.

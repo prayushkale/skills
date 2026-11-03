@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: codebase-feature-scoping
+expected_outcome: |
+  PLAN.md names the real files and functions involved (server.ts request handler, logger.ts, route handlers, db.ts) and lays out a concrete correlation-ID plan; code exploration delegated to cheap scouts.
+context:
+  scaffold_script: place-files.sh

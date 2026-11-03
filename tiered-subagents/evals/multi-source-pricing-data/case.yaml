@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: multi-source-pricing-data
+expected_outcome: |
+  A markdown pricing table for the four providers with source URLs and a pick; each provider fetched by a cheap subagent in parallel.
