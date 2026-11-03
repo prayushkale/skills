@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: fix-weak-draft
+expected_outcome: |
+  A weak generic draft rewritten with a strong hook, specifics and a reply magnet.

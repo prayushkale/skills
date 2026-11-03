@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: comment-on-post
+expected_outcome: |
+  Substantive comments on someone else's LinkedIn post.

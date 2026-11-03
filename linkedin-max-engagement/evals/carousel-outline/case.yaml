@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: carousel-outline
+expected_outcome: |
+  A document/carousel post outlined slide by slide with caption.
