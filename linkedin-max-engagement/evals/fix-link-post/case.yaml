@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: fix-link-post
+expected_outcome: |
+  A link-drop draft converted into a native post with honest link guidance.

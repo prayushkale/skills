@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: thread-distribution-mistakes
+expected_outcome: |
+  A short thread with a strong lead-in, one idea per post and a single CTA.
