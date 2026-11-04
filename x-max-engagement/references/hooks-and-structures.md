@@ -97,7 +97,7 @@ Line 1 = the what. 3-5 bullets = the how. Last sentence = the why.
 2. **Post 2:** reinforce the hook with the most striking number or detail. Many readers decide here.
 3. **Body:** one idea per post, numbered. End posts with an open loop ("Here's where it gets interesting:"). Dickie Bush's example thread had open loops on 14 of 18 posts.
 4. **Recap:** 2-3 lines summarizing the list. This recap is the most copyable part, which targets the copy-link weight.
-5. **Closer:** a single CTA, either follow for more on [topic] or a question. Optionally reply to your last post with a link back to post 1.
+5. **Closer:** exactly one CTA, either follow for more on [topic] or a question. Two CTAs split the response. Optionally reply to your last post with a link back to post 1.
 6. **Length:** 5-12 posts is the usual range. Sources conflict, and none have data. Cut any post that doesn't earn its place.
 
 **Test first** (Dickie Bush): post the core idea as a single post. If it gets early replies, expand it into a thread or an Article.

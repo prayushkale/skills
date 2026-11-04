@@ -4,4 +4,4 @@ focus: trace
 weight: 1
 ---
 
-post.md moves the article's core value into the post body so it stands alone
+post.md rewrites the post so it delivers standalone value in the body (insights, steps or story; placeholders are acceptable because the article content is unknown) rather than just teasing the link

@@ -127,7 +127,7 @@ Cut these:
 - "In today's fast-paced world" / "In an ever-evolving landscape"
 - "I'm thrilled to announce" (unless it really is an announcement, and even then lead with the substance)
 - "Let that sink in." / "Read that again." / "Here's the kicker:"
-- "It's not about X. It's about Y." used as a reflex
+- The negation-contrast pattern in every form: "It's not about X. It's about Y.", "Not X. Y.", "X wasn't the problem. Y was." Models produce this constantly even when told to avoid the literal phrase, so search for not/isn't/wasn't and rewrite each one as a direct claim.
 - "game-changer", "unlock", "leverage", "navigate", "delve", "elevate", "synergy"
 - emoji bullets on every line, rocket emojis
 - a moral at the end that restates the whole post

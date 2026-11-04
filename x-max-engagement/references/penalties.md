@@ -29,7 +29,7 @@ These signals are predicted per viewer, so content that a slice of your audience
 - Link deboost: X says it was removed. Low link-post engagement comes from user behavior.
 
 ## AI-tell checklist (cut these from every draft)
-- "It's not X. It's Y." / "This isn't about X — it's about Y."
+- The negation-contrast pattern in every form: "It's not X. It's Y.", "This isn't about X — it's about Y.", "Not X. Y.", "X isn't the problem. Y is.", "X wasn't the hard part. Y was." Models produce this constantly, even after being told to avoid the literal phrase, so search for not/isn't/wasn't/aren't and rewrite each one as a direct claim.
 - "Here's the thing:" / "Let that sink in." / "Read that again."
 - "In today's fast-paced world" / "In an era of…"
 - "Let's dive in" / "Buckle up" / "🧵👇" on every post

@@ -62,7 +62,11 @@ If the user gives a draft and says "improve it", skip intake and infer what you 
 - **Media:** images and plain text have the highest median engagement rates on X; video and link posts have the lowest [S, Buffer 2026]. Add an image when it carries proof (chart, screenshot, before/after).
 - **Links:** X says links are no longer deboosted [P, Bier/Musk, Jul 2026], but bare-link posts still have the lowest engagement [S]. If a link is needed, put the value in the post itself, then add the link with a real caption. Putting it in a reply is optional, not required.
 - **Hashtags:** none, or 1 if it's a live event or community tag.
-- **Voice:** sound like a person. Cut AI tells: "It's not X, it's Y" constructions, "Here's the thing", "In today's fast-paced…", "Let's dive in", "game-changer", "unlock", a stack of em dashes, emoji bullet lists, and triplet clichés. Use the user's own words and specifics.
+- **Voice:** sound like a person. Use the user's own words and specifics. Cut these AI tells:
+  - **The negation-contrast pattern in any form:** "It's not X, it's Y", "Not X. Y.", "X isn't the problem. Y is.", "X wasn't the expensive part. Y was.", "Threads aren't dead. Bad threads are." This is the most common AI tell, so state the claim directly ("Bad threads are dead.").
+  - "Here's the thing", "In today's fast-paced…", "Let's dive in", "game-changer", "unlock".
+  - A stack of em dashes, emoji bullet lists, and triplet clichés.
+- **Final pass before scoring:** search each draft for `not`, `isn't`, `wasn't`, and `aren't`. Rewrite any contrast pair. Check that line 1 is under about 100 characters.
 
 ### 4. Score before presenting (pre-publish scorecard)
 Score each draft 0-2 on each line. Revise anything under 13/16 before showing it.
@@ -75,12 +79,12 @@ Score each draft 0-2 on each line. Revise anything under 13/16 before showing it
 | 4 | Reply magnet | Easy, specific question or debatable claim | No reason to reply, or "Thoughts?" |
 | 5 | Negative-signal risk | Sharp but defensible, on-topic for followers | Rage-bait, dunk, off-topic, bait phrasing |
 | 6 | Scannability | Short lines, white space, lists | Wall of text |
-| 7 | Human voice | Reads like the user | AI tells present |
+| 7 | Human voice | Reads like the user; zero negation-contrast lines | Any "not X, Y" pattern or other AI tell |
 | 8 | Format fit | Right format for the goal (see step 2) | Thread for a one-liner idea, or bare link |
 
 ### 5. Output
 Present 2-3 variants, ready to copy, labelled **Safe**, **Bold**, and (when the idea supports it) **Thread** or **Article**. For each, include:
-- the text (thread posts numbered `1/`, `2/` …)
+- the text (thread posts numbered `1/`, `2/` …). A thread's last post carries **exactly one** CTA, either a question or a follow ask, never both.
 - one line: the signal it targets and why
 - the media suggestion, and the link placement if a link is used
 - its scorecard total
@@ -91,7 +95,7 @@ End with a **Post-publish plan** of 3-4 bullets: reply to substantive replies wi
 
 ## Writing a reply or quote-post
 1. **Pick targets well.** Choose posts in the user's niche that are recent and gaining traction, and where the user has something real to add. Out-of-network replies are discounted and hidden behind "show more", so quality matters more than volume.
-2. **Add one new thing:** a number, counter-example, personal result, or sharper framing. 1-3 short sentences. Never "Great post!".
+2. **Add one new thing:** a number, counter-example, personal result, or sharper framing. Never "Great post!". **Count the sentences.** A reply is at most 3 sentences in total, and 1-2 is better. Line breaks don't reset the count. Cut the extra lines that restate the point.
 3. **Quote-post** when the user's take deserves its own audience. A quote carries the same weight (5) as a reply and lands on the user's own followers' timelines.
 4. **Volume:** quality over quantity. X's product head said low-value replies (like "gm") use up an account's reach, and automated or programmatic replies are now restricted. 10-30 good replies a day beats 100 empty ones.
 

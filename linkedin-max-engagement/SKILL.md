@@ -49,7 +49,11 @@ If given a draft to improve, skip intake and infer.
 - **Hashtags:** 0-3, relevant. They are a minor lever now.
 - **Links:** keep them out of the body by default. Link posts get the lowest engagement, and studies estimate -18.8% to -26.5% reach [S]. The evidence is contested, and LinkedIn denies a deliberate penalty. Put the value in the post, then add the link in a comment or skip it. Say in the output that this rests on mixed evidence.
 - **Tagging:** tag only people who are genuinely part of the story and likely to engage.
-- **Voice:** first person, plain, specific. Cut AI tells: "In today's fast-paced world", "game-changer", "Let that sink in", "Here's the kicker", "It's not X, it's Y", "unlock", "leverage", "navigate", "delve", emoji bullets on every line, and a closing moral that restates the post.
+- **Voice:** first person, plain, specific. Cut these AI tells:
+  - **The negation-contrast pattern in any form:** "It's not X, it's Y", "Not 11%. Eleven people.", "Not to a bigger salary. To a faster offer.", "X wasn't the expensive part. Y was.", "The failure wasn't in X. It was Y." This is the most common AI tell, so state the claim directly.
+  - "In today's fast-paced world", "game-changer", "Let that sink in", "Here's the kicker", "unlock", "leverage", "navigate", "delve".
+  - Emoji bullets on every line, and a closing moral that restates the post.
+- **Final pass before scoring:** count the words in line 1 and cut it to 10 or fewer. Search each draft for `not`, `isn't`, `wasn't`, and `aren't`, and rewrite any contrast pair.
 
 For carousels, see the carousel workflow below. For comments, see the comment workflow.
 
@@ -65,7 +69,7 @@ Score each draft 0-2 per line. Revise anything under 13/16.
 | 5 | Save/send value | Framework, steps, or data worth keeping or forwarding | Nothing reusable |
 | 6 | Topic fit | Matches the author's profile expertise | Off-topic for the author |
 | 7 | Readability | Short paragraphs, white space, 125-300 words (or justified) | Wall of text |
-| 8 | Human voice | Sounds like the author; no AI tells, no link in body, ≤3 hashtags | AI phrasing, link dump, hashtag pile |
+| 8 | Human voice | Sounds like the author; zero negation-contrast lines, no link in body, ≤3 hashtags | Any "not X, Y" line, AI phrasing, link dump, hashtag pile |
 
 ### 5. Output
 Present 2-3 variants, ready to copy, labelled (e.g. **Story**, **Contrarian**, **Framework**). For each, include:
@@ -85,7 +89,9 @@ End with a **Post-publish plan**:
 2. **Slide 1** promises a specific outcome ("The 5-step pricing audit that raised our ACV 32%"), uses the biggest text in the deck, and shows a swipe cue. A topic label isn't enough.
 3. **Body slides** carry one idea each, about 25-40 words, with a headline and supporting line. Use a 7th-8th grade reading level, because readers give each slide 1-2 seconds.
 4. **The second-to-last slide** is proof: a result, data, or quote.
-5. **The last slide** has one CTA: follow, comment, or save. Pick one.
+5. **The last slide** has exactly one CTA: follow, comment, or save. Its headline and body hold only one request verb. Never combine save with follow, save with a question, or follow with a question. The comment question goes in the caption instead.
+   - Good: headline "Save this for your next pricing review", body "All 7 mistakes on one page", with a recap and no second ask.
+   - Bad: "Save this… Then follow me for more."
 6. **The caption** is a normal post: fold hook, 2-4 lines on why the deck matters, and a question.
 
 Output slide-by-slide: `Slide N — Headline / body text / visual note`, then the caption.

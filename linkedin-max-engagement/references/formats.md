@@ -38,7 +38,7 @@
 2. **Slide 2:** the problem or the stakes, or "what you'll get".
 3. **Body:** one idea per slide, a 3-8 word headline plus 15-30 words of support (25-40 total). Use a repeating structure (numbered steps, or problem → insight → fix).
 4. **Second-to-last:** proof (a result, chart, or quote).
-5. **Last:** a recap line and exactly one CTA (follow, comment, or save).
+5. **Last:** a recap line and exactly one CTA (follow, comment, or save). Don't add a second ask such as "Save this. Which one are you fixing?". The question belongs in the caption.
 
 **Design**
 - Consistent fonts and colours, high contrast, and simple visuals.
