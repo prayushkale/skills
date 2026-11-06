@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# fb: agent-browser bound to the dedicated, persistent "social" profile and one warm session.
+# FB_HEADED=1 fb open https://x.com   -> visible window, for the one-time login.
+set -euo pipefail
+args=(--session "${FB_SESSION:-social}" --profile "${FB_PROFILE:-$HOME/.agent-browser/profiles/social}")
+[ "${FB_HEADED:-0}" = "1" ] && args+=(--headed)
+exec agent-browser "${args[@]}" "$@"
