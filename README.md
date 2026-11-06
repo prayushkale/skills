@@ -5,6 +5,7 @@ My personal agent skills.
 | Skill | What it does |
 |---|---|
 | [batch-tasks](batch-tasks/SKILL.md) | Work through a list of tasks one at a time, each planned and implemented in a fresh-context subagent with one commit per item. |
+| [fast-browser](fast-browser/SKILL.md) | Scan X and LinkedIn feeds fast: one in-page script scrolls, dedupes and extracts N posts as JSON through Claude in Chrome, so the model only decides and drafts instead of taking screenshots step by step. |
 | [git-branch-commit-pr](git-branch-commit-pr/SKILL.md) | Ship uncommitted changes end to end: branch, scan for secrets, commit, push and open a PR with `gh`, with safe handling of hooks, forks and existing PRs. |
 | [linkedin-max-engagement](linkedin-max-engagement/SKILL.md) | Draft LinkedIn posts, carousels, comments and profiles for maximum reach, based on LinkedIn's 2026 feed architecture and large data studies, with a pre-publish scorecard. |
 | [safe-disk-cleanup](safe-disk-cleanup/SKILL.md) | Free disk space on macOS and Linux without losing anything: a read-only scan, verification of every candidate (unpushed git work, real duplicates, symlinks, locks), a plain explanation of each item, and nothing deleted without your yes for that item. |
