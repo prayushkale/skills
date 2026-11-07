@@ -11,6 +11,7 @@ My personal agent skills.
 | [safe-disk-cleanup](safe-disk-cleanup/SKILL.md) | Free disk space on macOS and Linux without losing anything: a read-only scan, verification of every candidate (unpushed git work, real duplicates, symlinks, locks), a plain explanation of each item, and nothing deleted without your yes for that item. |
 | [tiered-subagents](tiered-subagents/SKILL.md) | Run agentic work as a cheap, fast, tiered team: the top model plans and judges while budgeted Haiku/Sonnet subagents fetch, search and build in parallel. |
 | [viral-song](viral-song/SKILL.md) | Write, prompt and generate a song built to go viral on TikTok, Reels or Shorts with any AI music generator: pick a lane, write the clip unit first, translate it for the generator, and run a pre-generation checklist. Based on 340 hits; patterns, not a guarantee. |
+| [viral-mv](viral-mv/SKILL.md) | Make a short music video for an AI-generated song: a beat-locked anime 3D driver re-skinned as a realistic character by a reference-to-video model, with lyric graphics composited in code afterwards. Pairs with viral-song. |
 | [x-max-engagement](x-max-engagement/SKILL.md) | Draft X posts, threads, replies and Articles for maximum engagement, scored against X's published 2026 ranking weights, data studies and creator playbooks. |
 
 Install one: `npx skills add prayushkale/skills -g -s <skill-name>` (e.g. `-s tiered-subagents`)
